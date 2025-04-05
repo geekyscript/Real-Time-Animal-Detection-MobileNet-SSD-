@@ -1,7 +1,7 @@
 
 ---
 
-![Animal Detection Example](../images/animal_detection_example.png)
+![Animal Detection Example](img1.png)
 *Live detection of animals like dogs and cats using MobileNet SSD.*
 
 ---
